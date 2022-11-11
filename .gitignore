@@ -1,3 +1,6 @@
+# Deploy Script
+deploy.sh
+
 # Dependencies
 /node_modules
 
