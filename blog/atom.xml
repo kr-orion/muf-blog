@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kr-orion.github.io/muf-blog/blog</id>
     <title>Muf Life Blog</title>
-    <updated>2022-11-11T02:42:44.000Z</updated>
+    <updated>2022-11-11T03:10:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kr-orion.github.io/muf-blog/blog"/>
     <subtitle>Muf Life Blog</subtitle>
@@ -11,10 +11,9 @@
         <title type="html"><![CDATA[Hello Blog!]]></title>
         <id>Hello Blog!</id>
         <link href="https://kr-orion.github.io/muf-blog/blog/Hello Blog!"/>
-        <updated>2022-11-11T02:42:44.000Z</updated>
+        <updated>2022-11-11T03:10:47.000Z</updated>
         <summary type="html"><![CDATA[Hello Blog!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>드디어 gitpage 기반 blog를 생성했다.
-해야지 해야지 생각만 몇년을 했는데 ㅎㅎ;</p><p>잘 해보자 my blog!</p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.</p>]]></content>
         <author>
             <name>Junghyun Park (muf)</name>
             <uri>https://github.com/muf</uri>

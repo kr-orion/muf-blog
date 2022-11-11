@@ -4,7 +4,7 @@
         <title>Muf Life Blog</title>
         <link>https://kr-orion.github.io/muf-blog/blog</link>
         <description>Muf Life Blog</description>
-        <lastBuildDate>Fri, 11 Nov 2022 02:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 03:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,10 +12,9 @@
             <title><![CDATA[Hello Blog!]]></title>
             <link>https://kr-orion.github.io/muf-blog/blog/Hello Blog!</link>
             <guid>Hello Blog!</guid>
-            <pubDate>Fri, 11 Nov 2022 02:42:44 GMT</pubDate>
+            <pubDate>Fri, 11 Nov 2022 03:10:47 GMT</pubDate>
             <description><![CDATA[Hello Blog!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>드디어 gitpage 기반 blog를 생성했다.
-해야지 해야지 생각만 몇년을 했는데 ㅎㅎ;</p><p>잘 해보자 my blog!</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.</p>]]></content:encoded>
             <category>hello</category>
             <category>docusaurus</category>
         </item>
