@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kr-orion.github.io/muf-blog/blog</id>
-    <title>My Site Blog</title>
+    <title>Muf Life Blog</title>
     <updated>2022-11-11T02:42:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kr-orion.github.io/muf-blog/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Muf Life Blog</subtitle>
     <icon>https://kr-orion.github.io/muf-blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello Blog!]]></title>
