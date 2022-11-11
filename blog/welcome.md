@@ -1,6 +1,6 @@
 ---
-slug: Hello Blog!
-title: Hello Blog!
+slug: Hello Blog
+title: Hello Blog
 authors: [muf, orion]
 tags: [hello, docusaurus]
 ---
