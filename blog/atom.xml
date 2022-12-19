@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kr-orion.github.io/muf-blog/blog</id>
     <title>Muf Life Blog</title>
-    <updated>2022-12-19T04:57:13.000Z</updated>
+    <updated>2022-12-19T05:14:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kr-orion.github.io/muf-blog/blog"/>
     <subtitle>Muf Life Blog</subtitle>
     <icon>https://kr-orion.github.io/muf-blog/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Hello Blog]]></title>
-        <id>Hello Blog</id>
-        <link href="https://kr-orion.github.io/muf-blog/blog/Hello Blog"/>
-        <updated>2022-12-19T04:57:13.000Z</updated>
+        <title type="html"><![CDATA[Hello Blog, Thanks Docusaurus]]></title>
+        <id>hello</id>
+        <link href="https://kr-orion.github.io/muf-blog/blog/hello"/>
+        <updated>2022-12-19T05:14:38.000Z</updated>
         <summary type="html"><![CDATA[Hello Blog!]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.good.</p>]]></content>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>처음으로 블로그라는 걸 만들어 보았다.</p>]]></content>
         <author>
             <name>Junghyun Park (muf)</name>
             <uri>https://github.com/muf</uri>
@@ -23,16 +23,25 @@
             <uri>https://github.com/kr-orion</uri>
         </author>
         <category label="hello" term="hello"/>
-        <category label="docusaurus" term="docusaurus"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13:56:42]]></title>
-        <id>/2022/12/19/13:56:42</id>
-        <link href="https://kr-orion.github.io/muf-blog/blog/2022/12/19/13:56:42"/>
+        <title type="html"><![CDATA[20221219141430]]></title>
+        <id>20221219141430</id>
+        <link href="https://kr-orion.github.io/muf-blog/blog/20221219141430"/>
         <updated>2022-12-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr><p>slug: #!SLUG
-title: #!TITLE
-authors: <!-- -->[muf, orion]</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tags-2022-2022-12-2022-12-19-13-56-42-messy">tags: <!-- -->[2022, 2022-12, 2022-12-19 13 56 42, #!MESSY]<a class="hash-link" href="#tags-2022-2022-12-2022-12-19-13-56-42-messy" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content>
+        <summary type="html"><![CDATA[What's Up?]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content>
+        <author>
+            <name>Junghyun Park (muf)</name>
+            <uri>https://github.com/muf</uri>
+        </author>
+        <author>
+            <name>kr-orion</name>
+            <uri>https://github.com/kr-orion</uri>
+        </author>
+        <category label="2022" term="2022"/>
+        <category label="2022-12" term="2022-12"/>
+        <category label="Mon Dec 19 2022 00:00:00 GMT+0000 (Coordinated Universal Time)" term="Mon Dec 19 2022 00:00:00 GMT+0000 (Coordinated Universal Time)"/>
+        <category label="MESSY" term="MESSY"/>
     </entry>
 </feed>

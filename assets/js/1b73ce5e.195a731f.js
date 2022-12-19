@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[837],{1928:e=>{e.exports=JSON.parse('{"label":"2022-12","permalink":"/muf-blog/blog/tags/2022-12","allTagsPath":"/muf-blog/blog/tags","count":1}')}}]);

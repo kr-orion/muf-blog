@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[672],{6686:e=>{e.exports=JSON.parse('{"permalink":"/muf-blog/blog/tags/mon-dec-19-2022-00-00-00-gmt-0000-coordinated-universal-time","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

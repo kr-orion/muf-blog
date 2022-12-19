@@ -4,29 +4,30 @@
         <title>Muf Life Blog</title>
         <link>https://kr-orion.github.io/muf-blog/blog</link>
         <description>Muf Life Blog</description>
-        <lastBuildDate>Mon, 19 Dec 2022 04:57:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Hello Blog]]></title>
-            <link>https://kr-orion.github.io/muf-blog/blog/Hello Blog</link>
-            <guid>Hello Blog</guid>
-            <pubDate>Mon, 19 Dec 2022 04:57:13 GMT</pubDate>
+            <title><![CDATA[Hello Blog, Thanks Docusaurus]]></title>
+            <link>https://kr-orion.github.io/muf-blog/blog/hello</link>
+            <guid>hello</guid>
+            <pubDate>Mon, 19 Dec 2022 05:14:38 GMT</pubDate>
             <description><![CDATA[Hello Blog!]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.good.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>처음으로 블로그라는 걸 만들어 보았다.</p>]]></content:encoded>
             <category>hello</category>
-            <category>docusaurus</category>
         </item>
         <item>
-            <title><![CDATA[13:56:42]]></title>
-            <link>https://kr-orion.github.io/muf-blog/blog/2022/12/19/13:56:42</link>
-            <guid>/2022/12/19/13:56:42</guid>
+            <title><![CDATA[20221219141430]]></title>
+            <link>https://kr-orion.github.io/muf-blog/blog/20221219141430</link>
+            <guid>20221219141430</guid>
             <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[---]]></description>
-            <content:encoded><![CDATA[<hr><p>slug: #!SLUG
-title: #!TITLE
-authors: <!-- -->[muf, orion]</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tags-2022-2022-12-2022-12-19-13-56-42-messy">tags: <!-- -->[2022, 2022-12, 2022-12-19 13 56 42, #!MESSY]<a class="hash-link" href="#tags-2022-2022-12-2022-12-19-13-56-42-messy" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content:encoded>
+            <description><![CDATA[What's Up?]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content:encoded>
+            <category>2022</category>
+            <category>2022-12</category>
+            <category>Mon Dec 19 2022 00:00:00 GMT+0000 (Coordinated Universal Time)</category>
+            <category>MESSY</category>
         </item>
     </channel>
 </rss>
