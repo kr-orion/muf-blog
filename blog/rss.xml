@@ -4,7 +4,7 @@
         <title>Muf Life Blog</title>
         <link>https://kr-orion.github.io/muf-blog/blog</link>
         <description>Muf Life Blog</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 05:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,21 +12,20 @@
             <title><![CDATA[Hello Blog, Thanks Docusaurus]]></title>
             <link>https://kr-orion.github.io/muf-blog/blog/hello</link>
             <guid>hello</guid>
-            <pubDate>Mon, 19 Dec 2022 05:14:38 GMT</pubDate>
+            <pubDate>Mon, 19 Dec 2022 05:15:05 GMT</pubDate>
             <description><![CDATA[Hello Blog!]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>처음으로 블로그라는 걸 만들어 보았다.</p>]]></content:encoded>
             <category>hello</category>
         </item>
         <item>
-            <title><![CDATA[20221219141430]]></title>
-            <link>https://kr-orion.github.io/muf-blog/blog/20221219141430</link>
-            <guid>20221219141430</guid>
+            <title><![CDATA[20221219141501]]></title>
+            <link>https://kr-orion.github.io/muf-blog/blog/20221219141501</link>
+            <guid>20221219141501</guid>
             <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[What's Up?]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content:encoded>
             <category>2022</category>
             <category>2022-12</category>
-            <category>Mon Dec 19 2022 00:00:00 GMT+0000 (Coordinated Universal Time)</category>
             <category>MESSY</category>
         </item>
     </channel>
