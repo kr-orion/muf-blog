@@ -1,9 +1,9 @@
 ---
-slug: Hello Blog
-title: Hello Blog
+slug: hello
+title: Hello Blog, Thanks Docusaurus
 authors: [muf, orion]
-tags: [hello, docusaurus]
+tags: [hello]
 ---
 
 ## Hello Blog!
-귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.good.
+처음으로 블로그라는 걸 만들어 보았다.
