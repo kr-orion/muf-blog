@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kr-orion.github.io/muf-blog/blog</id>
     <title>Muf Life Blog</title>
-    <updated>2022-11-12T03:14:11.000Z</updated>
+    <updated>2022-12-19T04:57:13.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kr-orion.github.io/muf-blog/blog"/>
     <subtitle>Muf Life Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Hello Blog]]></title>
         <id>Hello Blog</id>
         <link href="https://kr-orion.github.io/muf-blog/blog/Hello Blog"/>
-        <updated>2022-11-12T03:14:11.000Z</updated>
+        <updated>2022-12-19T04:57:13.000Z</updated>
         <summary type="html"><![CDATA[Hello Blog!]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="hello-blog">Hello Blog!<a class="hash-link" href="#hello-blog" title="Direct link to heading">​</a></h2><p>귀찮아서 생각만하다가.. 드디어 git page 기반 blog를 만들었다.good.</p>]]></content>
         <author>
@@ -24,5 +24,15 @@
         </author>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13:56:42]]></title>
+        <id>/2022/12/19/13:56:42</id>
+        <link href="https://kr-orion.github.io/muf-blog/blog/2022/12/19/13:56:42"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr><p>slug: #!SLUG
+title: #!TITLE
+authors: <!-- -->[muf, orion]</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tags-2022-2022-12-2022-12-19-13-56-42-messy">tags: <!-- -->[2022, 2022-12, 2022-12-19 13 56 42, #!MESSY]<a class="hash-link" href="#tags-2022-2022-12-2022-12-19-13-56-42-messy" title="Direct link to heading">​</a></h2><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-up">What's Up?<a class="hash-link" href="#whats-up" title="Direct link to heading">​</a></h2>]]></content>
     </entry>
 </feed>
