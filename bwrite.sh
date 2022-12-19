@@ -9,7 +9,7 @@ content="---
 slug: $slug
 title: $tempTitle
 authors: [muf, orion]
-tags: [$year, $year-$month, $year-$month-$day, MESSY]
+tags: [$year, $year-$month, MESSY]
 ---
 
 ## What's Up?
